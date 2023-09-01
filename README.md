@@ -1,7 +1,7 @@
 
 > Open this page at [https://rece212.github.io/Maqueen-ESP/](https://rece212.github.io/Maqueen-ESP/)
 
-#### 🤖🌐 Unlock the Tech Nexus: Conquer Maqueen Robots and Harness ESP8266 Mastery! 🌐🤖
+# 🤖🌐 Unlock the Tech Nexus: Conquer Maqueen Robots and Harness ESP8266 Mastery! 🌐🤖
 
 ## 🎯 Main Objective: 
 Your mission, should you choose to accept it, is to seamlessly integrate the power of ESP8266 into the realm of Maqueen robots. Wire the components, get the API running, and bring these bots to life. Show us your achievement with the coveted "Proof of Life" – a robot that responds to your digital command!
