@@ -27,7 +27,7 @@ Below is the visual guide to wire your ESP8266 with Maqueen. This will lay the f
 
 
 ### 🌐 GitHub Repository: 
-Find the resources you need to conquer this tech challenge in our dedicated GitHub repository: https://github.com/rece212/Maqueen-ESP
+Find the resources you need to conquer this tech challenge in our dedicated GitHub repository: [https://github.com/rece212/Maqueen-ESP](https://github.com/Maqueen-ESP/Getting-Started-Code/)
 
 #### 👍 Positives & Negatives:
 Share the highs and lows of your conquest. Did a certain coding revelation bring a surge of joy? Were there unexpected hiccups along the way?
