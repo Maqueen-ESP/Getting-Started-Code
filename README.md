@@ -40,6 +40,6 @@ With wires intertwined and code deployed, you hold the key to a new era of robot
 
 
 #### Metadata (used for search, rendering)
-
+[![pages-build-deployment](https://github.com/Maqueen-ESP/Getting-Started-Code/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Maqueen-ESP/Getting-Started-Code/actions/workflows/pages/pages-build-deployment)
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
