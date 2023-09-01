@@ -1,5 +1,5 @@
 
-> Open this page at [https://rece212.github.io/maqueen-esp/](https://rece212.github.io/maqueen-esp/)
+> Open this page at [https://rece212.github.io/Maqueen-ESP/](https://rece212.github.io/Maqueen-ESP/)
 
 ## Use as Extension
 
