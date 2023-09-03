@@ -1,6 +1,3 @@
-
-> Open this page at [https://rece212.github.io/Maqueen-ESP/](https://rece212.github.io/Maqueen-ESP/)
-
 # 🤖🌐 Unlock the Tech Nexus: Conquer Maqueen Robots and Harness ESP8266 Mastery! 🌐🤖
 
 ## 🎯 Main Objective: 
