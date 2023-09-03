@@ -18,10 +18,9 @@ Detail your expedition through the GitHub repository, Stack Overflow threads, an
 
 ### 🔌 Wiring the Future: ESP8266 and Maqueen Unite 🔌 
 Below is the visual guide to wire your ESP8266 with Maqueen. This will lay the foundation for your technological masterpiece.
-![Board layout](https://github.com/rece212/Maqueen-ESP/assets/1363833/dbf17d41-baa4-4973-879c-22c2cd7f28ab)
+![IMG-20230901-WA0011](https://github.com/Maqueen-ESP/Getting-Started-Code/assets/1363833/eabcf7b6-f094-475d-8aff-97dbd81a8af8)
 
-![ESP-01](https://github.com/rece212/Maqueen-ESP/assets/1363833/f29cd781-f5aa-4fd9-8edb-abffbc681425)
-
+![Uploading 20230901_115002.jpg…]()
 
 ### 🌐 GitHub Repository: 
 Find the resources you need to conquer this tech challenge in our dedicated GitHub repository: [https://github.com/rece212/Maqueen-ESP](https://github.com/Maqueen-ESP/Getting-Started-Code/)
